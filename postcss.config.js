@@ -1,1 +1,6 @@
-NEXT_PUBLIC_API_URL=http://localhost:8000
+module.exports = {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+  },
+};
